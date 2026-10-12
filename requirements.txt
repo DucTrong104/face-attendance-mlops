@@ -1,0 +1,18 @@
+# --- Phần 1: AI & Xử lý ảnh (Dành cho Thành viên A) ---
+opencv-python
+deepface
+tf-keras
+
+# --- Phần 2: Backend API (Dành cho Thành viên B) ---
+fastapi
+uvicorn
+python-multipart
+faiss-cpu
+
+# --- Phần 3: Giao diện Web (Dành cho Thành viên D) ---
+streamlit
+requests
+
+# --- Phần 4: Các thư viện nền tảng ---
+numpy
+pandas
